@@ -9,7 +9,7 @@ Skeletal Mesh Destruction (Degradation) &amp; Dismemberment
 
 Version engine: 4.27+
 
-![plot](screen.png)
+![plot](img.png)
 
 
 ## Installation

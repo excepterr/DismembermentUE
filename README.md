@@ -15,6 +15,6 @@ Version engine: 4.27+
 ## Installation
 
 ```
-git clone https://github.com/cls5162/hadnler-aiogram-bot-template.git
-pip install aiogram
+git clone [https://github.com/cls5162/hadnler-aiogram-bot-template.git](https://github.com/excepterr/DismembermentUE.git) -C "./Documents/Unreal Projects/"
+run Dismemberment.uproject
 ```
